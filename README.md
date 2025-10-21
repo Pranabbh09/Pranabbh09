@@ -22,7 +22,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A192F?style=flat&logo=graphql&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-292D3E?style=flat&logo=openai&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5C2D91?style=flat&logo=ai&logoColor=white)
 
 ### Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)

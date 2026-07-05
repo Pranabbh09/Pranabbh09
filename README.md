@@ -62,5 +62,5 @@
 ## Contact
 
 **Email:** [Pranabbhardwaj29@gmail.com](mailto:Pranabbhardwaj29@gmail.com)  
-**LinkedIn:** [Pranab Bhardwaj](https://linkedin.com/in/pranab-bhardwaj)  
+**LinkedIn:** [Pranab Bhardwaj](https://www.linkedin.com/in/pranab-bhardwaj29/)  
 
